@@ -1,0 +1,1 @@
+A CODE_OF_CONDUCT file defines standards for how to engage in a community. For more information, see ["Adding a code of conduct to your project."](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
