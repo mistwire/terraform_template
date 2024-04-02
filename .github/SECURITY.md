@@ -1,0 +1,1 @@
+A SECURITY file gives instructions for how to report a security vulnerability in your project. For more information, see ["Adding a security policy to your repository."](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository)
